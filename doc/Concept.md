@@ -1,4 +1,4 @@
-## Minikube, Kind, and k3d: Simplifying Kubernetes Development
+## Minikube, kind, and k3d: Simplifying Kubernetes Development
 
 These three tools play a crucial role in simplifying Kubernetes development by enabling developers to create local Kubernetes clusters effortlessly, eliminating the need for setting up complex infrastructure solutions. Each tool offers unique features and benefits, making them exceptional choices for developing and testing Kubernetes applications locally.
 
@@ -14,13 +14,13 @@ These three tools play a crucial role in simplifying Kubernetes development by e
 | Disadvantages | Requires a lot of resources and can be slow on weak machines | Limited support for architectures, demanding on Docker resources | There may be functionality limitations compared to full-fledged Kubernetes |
 
 
-Demonstration Minikube:
+## Demonstration Minikube:
 [![asciicast](https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT.svg)](https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT)
 
-Demonstration Kind:
+## Demonstration Kind:
 [![asciicast](https://asciinema.org/a/bvwJv5H00lCRHPOko2DgUQVy2.svg)](https://asciinema.org/a/bvwJv5H00lCRHPOko2DgUQVy2)
 
-Demonstration K3d:
+## Demonstration K3d:
 [![asciicast](https://asciinema.org/a/06pfBhcncanmHtiIW1Ky4ivkZ.svg)](https://asciinema.org/a/06pfBhcncanmHtiIW1Ky4ivkZ)
 
 ## Conclusion:

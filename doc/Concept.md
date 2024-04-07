@@ -14,4 +14,12 @@ These three tools play a crucial role in simplifying Kubernetes development by e
 
 Demonstration Minikube:
 [![asciicast](https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT.svg)](https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT)
-<script src="https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT.js" id="asciicast-651345" async="true"></script>
+
+Demonstration Kind:
+[![asciicast](https://asciinema.org/a/bvwJv5H00lCRHPOko2DgUQVy2.svg)](https://asciinema.org/a/bvwJv5H00lCRHPOko2DgUQVy2)
+
+Demonstration K3d:
+[![asciicast](https://asciinema.org/a/06pfBhcncanmHtiIW1Ky4ivkZ.svg)](https://asciinema.org/a/06pfBhcncanmHtiIW1Ky4ivkZ)
+
+Conclusion:
+The recommendation is to choose a tool depending on the specific needs of your startup. If you need a lightweight and fast environment for development and testing, you might want to choose Kind or k3d. If you need more functionality and flexibility, Minikube might be a better option. It's also worth doing your own testing of each tool to choose the one that best suits your project's specific needs.

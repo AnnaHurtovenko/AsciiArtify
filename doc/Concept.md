@@ -1,7 +1,6 @@
 |                     |   Minikube  |     kind     |     k3d     |
 |---------------------|-------------|--------------|-------------|
-|  | Рядок 1, Колонка 2 | Рядок 1, Колонка 3 | Рядок 1, Колонка 4 |
-| Description | Рядок 2, Колонка 2 | Рядок 2, Колонка 3 | Рядок 2, Колонка 4 |
+| Description | Minikube is a tool for locally deploying a single Kubernetes cluster on a user's computer. It is used for development, testing, and training with Kubernetes without the need to access real clusters. | Kind is a tool that allows you to create local Kubernetes clusters in Docker containers. Kind allows you to deploy Kubernetes clusters quickly and efficiently by providing an isolated environment for development and testing. | K3d is a tool for creating local Kubernetes clusters in Docker containers that uses the Rancher Kubernetes Engine (RKE). K3d allows you to quickly create and test Kubernetes clusters in a Docker environment. |
 | OS | Рядок 3, Колонка 2 | Рядок 3, Колонка 3 | Рядок 3, Колонка 4 |
 | Architecture | Рядок 4, Колонка 2 | Рядок 4, Колонка 3 | Рядок 4, Колонка 4 |
 | Automation | Рядок 5, Колонка 2 | Рядок 5, Колонка 3 | Рядок 5, Колонка 4 |

@@ -14,3 +14,4 @@ These three tools play a crucial role in simplifying Kubernetes development by e
 
 Demonstration Minikube:
 [![asciicast](https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT.svg)](https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT)
+<script src="https://asciinema.org/a/OJ831VoKlwKh2ulbG4501ApBT.js" id="asciicast-651345" async="true"></script>
